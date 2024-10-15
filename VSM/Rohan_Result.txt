@@ -1,0 +1,80 @@
+Results for query: 'United Legacy'
+Precision@5: 1.0000
+Document: Foundations of Manchester United (1878-1902).txt, Similarity: 0.0242
+Document: Dominance in the 2000s.txt, Similarity: 0.0101
+Document: The Early Years.txt, Similarity: 0.0097
+Document: The 1970 Struggles and Transition.txt, Similarity: 0.0096
+Document: Post-Ferguson Era (2013-2020).txt, Similarity: 0.0095
+
+Results for query: 'Red Devils' Glory'
+Precision@5: 1.0000
+Document: The Rebuilding Phase (2020-2022).txt, Similarity: 0.1953
+Document: Dominance in the 2000s.txt, Similarity: 0.0000
+Document: Foundations of Manchester United (1878-1902).txt, Similarity: 0.0000
+Document: Post-Ferguson Era (2013-2020).txt, Similarity: 0.0000
+Document: Rebuilding and the First European Triumph (1958-1968).txt, Similarity: 0.0000
+
+Results for query: 'Theatre of Dreams'
+Precision@5: 1.0000
+Document: Dominance in the 2000s.txt, Similarity: 0.0000
+Document: Foundations of Manchester United (1878-1902).txt, Similarity: 0.0000
+Document: Post-Ferguson Era (2013-2020).txt, Similarity: 0.0000
+Document: Rebuilding and the First European Triumph (1958-1968).txt, Similarity: 0.0000
+Document: The 1970 Struggles and Transition.txt, Similarity: 0.0000
+
+Results for query: 'Champions United'
+Precision@5: 1.0000
+Document: The Treble-Winning Season (1998-1999).txt, Similarity: 0.3676
+Document: Foundations of Manchester United (1878-1902).txt, Similarity: 0.0011
+Document: Dominance in the 2000s.txt, Similarity: 0.0005
+Document: The Early Years.txt, Similarity: 0.0004
+Document: The 1970 Struggles and Transition.txt, Similarity: 0.0004
+
+Results for query: 'Glory Days'
+Precision@5: 1.0000
+Document: The Rebuilding Phase (2020-2022).txt, Similarity: 0.1953
+Document: Dominance in the 2000s.txt, Similarity: 0.0000
+Document: Foundations of Manchester United (1878-1902).txt, Similarity: 0.0000
+Document: Post-Ferguson Era (2013-2020).txt, Similarity: 0.0000
+Document: Rebuilding and the First European Triumph (1958-1968).txt, Similarity: 0.0000
+
+Results for query: 'Manchester Triumph'
+Precision@5: 1.0000
+Document: Rebuilding and the First European Triumph (1958-1968).txt, Similarity: 0.1924
+Document: Dominance in the 2000s.txt, Similarity: 0.0000
+Document: Foundations of Manchester United (1878-1902).txt, Similarity: 0.0000
+Document: Post-Ferguson Era (2013-2020).txt, Similarity: 0.0000
+Document: The 1970 Struggles and Transition.txt, Similarity: 0.0000
+
+Results for query: 'United Legends'
+Precision@5: 1.0000
+Document: Foundations of Manchester United (1878-1902).txt, Similarity: 0.0242
+Document: Dominance in the 2000s.txt, Similarity: 0.0101
+Document: The Early Years.txt, Similarity: 0.0097
+Document: The 1970 Struggles and Transition.txt, Similarity: 0.0096
+Document: Post-Ferguson Era (2013-2020).txt, Similarity: 0.0095
+
+Results for query: 'Old Trafford Heroes'
+Precision@5: 1.0000
+Document: Dominance in the 2000s.txt, Similarity: 0.0000
+Document: Foundations of Manchester United (1878-1902).txt, Similarity: 0.0000
+Document: Post-Ferguson Era (2013-2020).txt, Similarity: 0.0000
+Document: Rebuilding and the First European Triumph (1958-1968).txt, Similarity: 0.0000
+Document: The 1970 Struggles and Transition.txt, Similarity: 0.0000
+
+Results for query: 'United's Rise'
+Precision@5: 1.0000
+Document: The Rise of Sir Alex Ferguson.txt, Similarity: 0.1477
+Document: Rebuilding and the First European Triumph (1958-1968).txt, Similarity: 0.0770
+Document: The Treble-Winning Season (1998-1999).txt, Similarity: 0.0737
+Document: Dominance in the 2000s.txt, Similarity: 0.0000
+Document: Foundations of Manchester United (1878-1902).txt, Similarity: 0.0000
+
+Results for query: 'Legacy of United'
+Precision@5: 1.0000
+Document: Foundations of Manchester United (1878-1902).txt, Similarity: 0.0242
+Document: Dominance in the 2000s.txt, Similarity: 0.0101
+Document: The Early Years.txt, Similarity: 0.0097
+Document: The 1970 Struggles and Transition.txt, Similarity: 0.0096
+Document: Post-Ferguson Era (2013-2020).txt, Similarity: 0.0095
+
